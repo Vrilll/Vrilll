@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,ReactJS,MySQL**
 
-- 👨‍💻 All of my projects are available at [vriltech.app/](https://vriltech.app/)
+- 👨‍💻 All of my projects are available at [vriltech.app](https://vriltech.app/)
 
 - 📫 How to reach me **vrilll@outlook.co.id**
 
