@@ -16,12 +16,12 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vrilll&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=E33DBF&icon_color=7B4DE0&text_color=A99BB8&bg_color=0E0818&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vrilll&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=A0087F&icon_color=3A1B99&text_color=1A0F2B&bg_color=FBF7FD&card_width=500" alt="Evril's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vrilll&show_icons=true&hide_rank=true&hide_border=true&title_color=E33DBF&icon_color=7B4DE0&text_color=A99BB8&bg_color=0E0818&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vrilll&show_icons=true&hide_rank=true&hide_border=true&title_color=A0087F&icon_color=3A1B99&text_color=1A0F2B&bg_color=FBF7FD&card_width=500" alt="Evril's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrilll&layout=compact&langs_count=8&hide_border=true&title_color=E33DBF&text_color=A99BB8&bg_color=0E0818&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrilll&layout=compact&langs_count=8&hide_border=true&title_color=A0087F&text_color=1A0F2B&bg_color=FBF7FD&card_width=500" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrilll&hide=hack&layout=compact&langs_count=8&hide_border=true&title_color=E33DBF&text_color=A99BB8&bg_color=0E0818&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrilll&hide=hack&layout=compact&langs_count=8&hide_border=true&title_color=A0087F&text_color=1A0F2B&bg_color=FBF7FD&card_width=500" alt="Top languages" />
 </picture>
 
 </div>
