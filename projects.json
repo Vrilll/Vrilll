@@ -1,0 +1,54 @@
+{
+  "_how_to_edit": [
+    "Each entry is one card in the PROJECTS.LIST panel. Order here = order on the profile.",
+    "repo: repository name under github.com/Vrilll (description, stars, languages and 'updated' are fetched live).",
+    "logo: path to an image in this repo (svg, png, jpg or webp). Replace the file in logos/ to change a logo.",
+    "desc / tags: what the card says. Keep desc under ~100 characters.",
+    "After you push a change to this file or to logos/, the 'Generate projects panel' action rebuilds the cards."
+  ],
+  "owner": "Vrilll",
+  "projects": [
+    {
+      "repo": "kelana-ai",
+      "name": "KelanaAI",
+      "logo": "logos/kelana-ai.svg",
+      "desc": "AI travel planner: FastAPI + PostgreSQL backend, Next.js frontend, Amazon Bedrock knowledge base.",
+      "tags": ["Next.js", "FastAPI", "Bedrock"]
+    },
+    {
+      "repo": "supplier-webgis-mapid",
+      "name": "Supplier WebGIS",
+      "logo": "logos/supplier-webgis-mapid.svg",
+      "desc": "Streams 50,000 supplier plots as vector tiles on MAPID basemaps, with an analyst-first popup.",
+      "tags": ["Svelte", "MapLibre", "MVT"]
+    },
+    {
+      "repo": "clusterProo",
+      "name": "ClusterPro",
+      "logo": "logos/clusterProo.svg",
+      "desc": "Groups sand & split products by sales data with K-Medoids, scored by the Davies-Bouldin index.",
+      "tags": ["PHP", "MySQL", "K-Medoids"]
+    },
+    {
+      "repo": "japan",
+      "name": "JLPT N5 Evaluator",
+      "logo": "logos/japan.svg",
+      "desc": "Naive Bayes classifier that predicts JLPT N5 outcomes for a Japan job-training institute.",
+      "tags": ["PHP", "MySQL", "Naive Bayes"]
+    },
+    {
+      "repo": "keuangan",
+      "name": "Swadaya Finance",
+      "logo": "logos/keuangan.svg",
+      "desc": "School finance reporting for parent-funded budgets, built on the Full Costing method.",
+      "tags": ["PHP", "MySQL", "Full Costing"]
+    },
+    {
+      "repo": "KantongKu",
+      "name": "KantongKu",
+      "logo": "logos/KantongKu.svg",
+      "desc": "Budgeting app that helps students track income and expenses. Live at kantongku.evrilrizki.com.",
+      "tags": ["JavaScript", "PHP", "MySQL"]
+    }
+  ]
+}
