@@ -1,44 +1,83 @@
-<h1 align="center">Hi 👋, I'm @Vrilll</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<!-- ===== HERO (auto dark/light) ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vrilll/Vrilll/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vrilll/Vrilll/main/assets/banner-light.svg">
+  <img alt="Evril Rizki - Head Technology & Systems, Founder of Next Tech Team" src="https://raw.githubusercontent.com/Vrilll/Vrilll/main/assets/banner-light.svg">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrilll&label=Profile%20views&color=0e75b6&style=flat" alt="vrilll" /> </p>
+<!-- ===== GITHUB STATS ===== -->
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrilll" alt="vrilll" /></a> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Vrilll&hide_border=true&background=0E0818&stroke=3A1B99&ring=B30994&fire=E33DBF&currStreakLabel=E33DBF&sideLabels=A99BB8&currStreakNum=F4ECF7&sideNums=F4ECF7&dates=6B5A7E&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Vrilll&hide_border=true&background=FBF7FD&stroke=D9B8F2&ring=A0087F&fire=B30994&currStreakLabel=A0087F&sideLabels=5E4E70&currStreakNum=1A0F2B&sideNums=1A0F2B&dates=9C8DAE&card_width=1180" alt="Evril's contribution streak" />
+</picture>
 
-<p align="left"> <a href="https://twitter.com/rizkievril" target="blank"><img src="https://img.shields.io/twitter/follow/rizkievril?logo=twitter&style=for-the-badge" alt="rizkievril" /></a> </p>
+<br/>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,ReactJS,MySQL**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vrilll&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=E33DBF&icon_color=7B4DE0&text_color=A99BB8&bg_color=0E0818&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vrilll&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=A0087F&icon_color=3A1B99&text_color=1A0F2B&bg_color=FBF7FD&card_width=500" alt="Evril's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrilll&layout=compact&langs_count=8&hide_border=true&title_color=E33DBF&text_color=A99BB8&bg_color=0E0818&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrilll&layout=compact&langs_count=8&hide_border=true&title_color=A0087F&text_color=1A0F2B&bg_color=FBF7FD&card_width=500" alt="Top languages" />
+</picture>
 
-- 👨‍💻 All of my projects are available at [vriltech.app](https://vriltech.app/)
+</div>
 
-- 📫 How to reach me **vrilll@outlook.co.id**
+<!-- ===== CONTRIBUTION SNAKE (built by .github/workflows/snake.yml) ===== -->
+<div align="center">
 
-- 📄 Know about my experiences [http://itsme-vril.coolpage.biz/](http://itsme-vril.coolpage.biz/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vrilll/Vrilll/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vrilll/Vrilll/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Vrilll/Vrilll/output/snake-light.svg" />
+</picture>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/vril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vril" height="30" width="40" /></a>
-<a href="https://dev.to/vril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vril" height="30" width="40" /></a>
-<a href="https://twitter.com/rizkievril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rizkievril" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/evril-rizki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evril-rizki-17353121a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18720920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18720920" height="30" width="40" /></a>
-<a href="https://fb.com/evril.rizki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="evril.rizki" height="30" width="40" /></a>
-<a href="https://instagram.com/evril.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vril.01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nawawievrilrizki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nawawievrilrizki" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@nawawievrilrizki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nawawievrilrizki" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrilll&show_icons=true&locale=en&layout=compact" alt="vrilll" /></p>
+<!-- ===== PROJECTS ===== -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vrilll/Vrilll/main/assets/projects-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Vrilll/Vrilll/main/assets/projects-light.svg" alt="Selected projects" />
+</picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrilll&show_icons=true&locale=en" alt="vrilll" /></p>
+<sub>
+<a href="https://github.com/Vrilll/kelana-ai">KelanaAI</a> ·
+<a href="https://github.com/Vrilll/supplier-webgis-mapid">Supplier WebGIS</a> ·
+<a href="https://github.com/Vrilll/clusterProo">ClusterPro</a> ·
+<a href="https://github.com/Vrilll/japan">JLPT N5 Evaluator</a> ·
+<a href="https://github.com/Vrilll/keuangan">Swadaya Finance</a> ·
+<a href="https://github.com/Vrilll/KantongKu">KantongKu</a>
+</sub>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrilll&" alt="vrilll" /></p>
+<!-- ===== SOCIAL ===== -->
+<br/>
+<div align="center">
 
+<a href="https://www.linkedin.com/in/evril-rizki/">
+  <img src="https://img.shields.io/badge/LinkedIn-0E0818?style=for-the-badge&labelColor=0E0818&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjRTMzREJGIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8+PC9zdmc+" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://evrilrizki.com">
+  <img src="https://img.shields.io/badge/Portfolio-0E0818?style=for-the-badge&logo=googlechrome&logoColor=7B4DE0&labelColor=0E0818" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://nexttechteam.com">
+  <img src="https://img.shields.io/badge/Next_Tech_Team-0E0818?style=for-the-badge&logo=googlechrome&logoColor=E33DBF&labelColor=0E0818" alt="Next Tech Team website" />
+</a>
+&nbsp;
+<a href="mailto:founder@nexttechteam.com">
+  <img src="https://img.shields.io/badge/founder%40nexttechteam.com-0E0818?style=for-the-badge&logo=maildotru&logoColor=E33DBF&labelColor=0E0818" alt="Business email" />
+</a>
+&nbsp;
+<a href="mailto:vrilll@outlook.co.id">
+  <img src="https://img.shields.io/badge/vrilll%40outlook.co.id-0E0818?style=for-the-badge&logo=maildotru&logoColor=7B4DE0&labelColor=0E0818" alt="Personal email" />
+</a>
 
-<!---
-Vrilll/Vrilll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
